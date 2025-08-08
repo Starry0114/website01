@@ -3,7 +3,7 @@ class Database {
     private $host = "starry00.mysql.database.azure.com";
     private $db_name = "demo";
     private $username = "starry";
-    private $password = "Dark0689@@";
+    private $password = "Vincent020114";
     public $conn;
 
     public function getConnection() {
@@ -26,3 +26,4 @@ class Database {
     }
 }
 ?>
+
